@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://e-commerce-storefront-ui-v2.vercel.app/"><strong>View Live Demo</strong></a>
+  <a href="https://e-commerce-storefront-ui-v2.vercel.app/ target_blank"><strong>View Live Demo</strong></a>
 </p>
 
 ## 🚀 Overview
