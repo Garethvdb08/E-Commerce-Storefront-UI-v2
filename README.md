@@ -25,12 +25,27 @@ The application is built as a Single Page Application (SPA) with custom client-s
 ## 📸 Screenshots
 
 <p align="center">
-  <em>(Replace the placeholder links with your actual screenshots)</em>
+  A glimpse of the Furni. storefront UI in action, showcasing its responsive design and interactive elements.
 </p>
 
-|          Desktop View           |
-| :-----------------------------: |
-| !Desktop Screenshot Placeholder |
+<table width="100%">
+  <tr>
+    <td align="center"><strong>Desktop - Home Page</strong></td>
+    <td align="center"><strong>Desktop - Product Hover</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/desktop view e-commerce.png" alt="Furni Desktop Homepage"></td>
+    <td><img src="./assets/product-hover-desktop.png" alt="Product Card Hover Effect"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mobile - Home Page</strong></td>
+    <td align="center"><strong>Mobile - Navigation Open</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/homepagemobileview.png" alt="Furni Mobile Homepage"></td>
+    <td><img src="./assets/navmobileview.png" alt="Mobile Navigation Menu"></td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
